@@ -5,7 +5,16 @@ body {
 }
 
 .header{
+    background-color: black;
+    color: whitesmoke
+}
 
+.header h2{
+    font-size: 40px;
+}
+
+.nav a {
+    color:aqua
 }
 
 .hero{
